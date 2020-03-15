@@ -3,7 +3,10 @@
 one page pata portfolio template
 ===========================================
 
-Youtube Tutorial : 
+HTML portfolio template with bootstrap,css,js,carousel
+Free theme
+
+Youtube Tutorial : https://youtu.be/2G1SuvVT87w
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
